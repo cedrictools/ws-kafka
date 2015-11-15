@@ -1,0 +1,16 @@
+http:
+  port: 8080
+  host: "localhost"
+
+kafka:
+  producer:
+    bootstrap.servers: "192.168.99.100:9092"
+    value.serializer: "org.apache.kafka.common.serialization.StringSerializer"
+    key.serializer:   "org.apache.kafka.common.serialization.StringSerializer"
+  consumer:
+    zookeeper.connect: "192.168.99.100:2181"
+
+logging:
+  level: info
+  console: true
+
