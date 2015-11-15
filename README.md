@@ -2,7 +2,7 @@ json web service for publishing on kafka
 ================================================
 
 ## Usage
-[![Build Status](https://secure.travis-ci.org/cedrictools/wskaf.png)](http://travis-ci.org/cedrictools/wskaf)
+[![Build Status](https://secure.travis-ci.org/cedrictools/ws-kafka.png)](http://travis-ci.org/cedrictools/ws-kafka)
 
 ```bash
 ### run kafka with docker
