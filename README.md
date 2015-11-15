@@ -38,3 +38,4 @@ kafka-console-consumer.sh --zookeeper localhost:2181 --topic topicA --from-begin
 (use 'midje.repl)
 (autotest)
 ```
+
